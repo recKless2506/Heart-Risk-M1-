@@ -5,6 +5,5 @@ catboost_info/
 tmp_uploads/
 models/
 outputs/
-data/*.csv
 *.cbm
 *.log
